@@ -1,5 +1,5 @@
 {
-    "name": "stillat/statamic-search-report",
+    "name": "iuriemalai/statamic-search-report",
     "license": "MIT",
     "autoload": {
         "psr-4": {
